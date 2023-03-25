@@ -1,6 +1,0 @@
-public class Hello {
-	public static void master(string[] args) {
-		// Print " Hello, world" in the terminal window
-		system.out.printIn("Hello, World");
-	}
-}
